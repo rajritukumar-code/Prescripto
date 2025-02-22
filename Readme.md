@@ -1,4 +1,4 @@
-# Prescripto (MERN App) Test
+# Prescripto (MERN App) 
 
 Prescripto is a cutting-edge, full-stack web application engineered to revolutionize the way patients book appointments with doctors. Built on the MERN stack (MongoDB, Express, React, Node.js), this platform offers a seamless, responsive, and highly secure experience that caters to both patients and healthcare providers.
 
